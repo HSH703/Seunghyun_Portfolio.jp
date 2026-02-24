@@ -75,10 +75,10 @@
 - **4차 프로젝트 관련 자료**
     |항목|링크|
     |-|-|
-    |포트폴리오(배포 URL)|[PAWJECT 4차 - 배포 URL](http://54.180.94.156)|
-    |GitHub|[PAWJECT 4차 - TeamProject Github](https://github.com/taehun00/thejoeun/tree/master/pawject4)|
-    |피그마|[PAWJECT 4차 - Figma](https://www.figma.com/deck/p5XSa4gGr7FLTs0VTKnDgF/PAWJECT_ver4?node-id=1-261&t=Ze7c2GsPzUcjjIdV-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)|
-    |YouTube(본인파트)|[4차 프로젝트 - 광고배너](https://www.youtube.com/watch?v=L5Sabniz1DY)|
+    |ポートフォリオ(配布 URL)|[PAWJECT 第4回 – 配布URL](http://54.180.94.156)|
+    |GitHub|[PAWJECT 第4回 – TeamProject Github](https://github.com/taehun00/thejoeun/tree/master/pawject4)|
+    |Figma|[PAWJECT 第4回 – Figma](https://www.figma.com/deck/p5XSa4gGr7FLTs0VTKnDgF/PAWJECT_ver4?node-id=1-261&t=Ze7c2GsPzUcjjIdV-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)|
+    |YouTube(본인파트)|[第4回 プロジェクト – 広告バナー](https://www.youtube.com/watch?v=L5Sabniz1DY)|
 
 
 <details>
@@ -153,11 +153,11 @@
 ---
 - **3차 프로젝트 관련 자료**
 
-|항목|링크|
+|項目|リンク|
 |-|-|
-|GitHub|[PAWJECT 3차 - TeamProject Github](https://github.com/taehun00/thejoeun/tree/master/pawject3)|
-|피그마|[PAWJECT 3차 - Figma](https://www.figma.com/deck/agVQ2UET3VDuGyPsoOOyh6/PAWJECT_ver3?node-id=1-261&t=vW2UAcWi4Fd8xILs-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)|
-|YouTube(본인파트)|[3차프로젝트_운동스마트게시판](https://www.youtube.com/watch?v=zX3kRQAQF2o)|
+|GitHub|[PAWJECT 第3 回 – TeamProject Github](https://github.com/taehun00/thejoeun/tree/master/pawject3)|
+|Figma|[PAWJECT 第3 回 - Figma](https://www.figma.com/deck/agVQ2UET3VDuGyPsoOOyh6/PAWJECT_ver3?node-id=1-261&t=vW2UAcWi4Fd8xILs-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)|
+|YouTube(본인파트)|[第3プロジェクト – 運動スマート掲示板](https://www.youtube.com/watch?v=zX3kRQAQF2o)|
 
 
 <details>
