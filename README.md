@@ -82,7 +82,7 @@
 
 
 <details>
-  <summary> 第4次プロジェクトの詳細を見る</summary>
+  <summary> 第4次プロジェクトの詳細を見る。</summary>
 
 ---
 
@@ -159,7 +159,7 @@
 
 
 <details>
-  <summary> 第3次プロジェクトの詳細を見る</summary>
+  <summary> 第3次プロジェクトの詳細を見る。</summary>
 
 ---
 
@@ -264,7 +264,7 @@
 
 
 <details>
-  <summary> プロジェクトバージョンの詳細比較</summary>
+  <summary> プロジェクトバージョンの詳細比較。</summary>
 
 ---
 
@@ -297,7 +297,7 @@
 |YouTube(自分のパート)|[第2プロジェクト_運動チャレンジ掲示板](https://www.youtube.com/watch?v=eN79WDRs4wI)|
 
 <details>
-  <summary>第2次プロジェクトの詳細を見る</summary>
+  <summary>第2次プロジェクトの詳細を見る。</summary>
 
 ---
 
@@ -374,14 +374,14 @@
 
 ---
 
-- **1차 프로젝트 관련 자료**
+- **第1次プロジェクト関連資料**
 
 |項目|リンク|
 |-|-|
 |GitHub|[PAWJECT 第1回 – TeamProject Github](https://github.com/taehun00/thejoeun/tree/master/pawject1)|
 
 <details>
-  <summary> 第1次プロジェクトの詳細を見る</summary>
+  <summary> 第1次プロジェクトの詳細を見る。</summary>
 
 ---
 
